@@ -1,4 +1,5 @@
 // Myecho2 prints the index and value of each of its argument, one per line
+// Corresponds to exercise 1.2 (pg 8)
 package main
 
 import (
