@@ -1,5 +1,3 @@
-# go_programming_lang
+# Learning the Go Programming Language
 
-This repository contains exercises and code done while reading "The Go Programming Language" by Alan A.A. Donovan and Brian W. Kernighan.
-
-Each chapter will have it's own directory.
+This repository contains exercises done while learning the Go programming language. Each website/book used will have its own directory and README to correctly credit the author of the resource being used.
