@@ -1,3 +1,4 @@
+// Simple Hello World program in Go
 package main
 
 import "fmt"

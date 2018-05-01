@@ -1,3 +1,5 @@
+// Prompts the user for a small number and larger number
+// and prints the remainder of division of the numbers.
 package main
 
 import "fmt"

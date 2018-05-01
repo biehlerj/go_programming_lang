@@ -1,3 +1,4 @@
+// Concatenates and prints a string a variable containing my name
 package main
 
 import "fmt"
