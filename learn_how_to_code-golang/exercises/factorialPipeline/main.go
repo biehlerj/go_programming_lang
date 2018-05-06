@@ -37,7 +37,7 @@ func factorial(in <-chan int) <-chan int {
 func fact(n int) int {
 	total := 1
 	for i := n; i > 0; i-- {
-		total *= 1
+		total *= i
 	}
 	return total
 }
